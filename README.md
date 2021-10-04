@@ -3,7 +3,7 @@ Bot to trade bitcoin with non fiat currency USDT using Binance trading account. 
 
 # What script does?
 
-This script triggers the automated trades between `BTC/USDT` pair for given spread amount. The limit buy and limit sell are calculated based on spread and allowance for each trade.
+This script triggers the automated trades between `BTC/USDT` pair for given spread amount. The limit sell is calculated based on balance of BTC.
 
 # Setup guide
 
